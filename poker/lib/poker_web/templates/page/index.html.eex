@@ -1,0 +1,22 @@
+<div id="enemycard">
+<img src="/images/torannpu-illust54.png" alt="enemyCard1"/>
+<img src="/images/torannpu-illust54.png" alt="enemyCard2"/>
+<img src="/images/torannpu-illust54.png" alt="enemyCard3"/>
+<img src="/images/torannpu-illust54.png" alt="enemyCard4"/>
+<img src="/images/torannpu-illust54.png" alt="enemyCard5"/>
+</div>
+
+<div id="mycard">
+<img src="/images/torannpu-illust54.png" alt="myCard1"/>
+<img src="/images/torannpu-illust54.png" alt="myCard2"/>
+<img src="/images/torannpu-illust54.png" alt="myCard3"/>
+<img src="/images/torannpu-illust54.png" alt="myCard4"/>
+<img src="/images/torannpu-illust54.png" alt="myCard5"/>
+</div>
+
+<div style="text-align:center;">
+<%= form_tag("/game", method: :post) %>
+<button type="submit" >Game Start</button>
+</form>
+</span>
+</div>
