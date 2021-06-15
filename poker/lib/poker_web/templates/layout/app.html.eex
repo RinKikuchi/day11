@@ -21,6 +21,7 @@
       div#enemyhand{
         font-size: 30px;
         color: #FFFFFF;
+        margin-left: 2%;
       }
 
       div#myhand{
